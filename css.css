@@ -1,0 +1,24 @@
+
+body{
+    background-color: cadetblue;
+}
+center{
+    color: black;
+}
+#cabecalho{
+    height: 30%;
+    background-color: dodgerblue;
+    border-style: solid;
+    border-color: dodgerblue;
+}
+#cabecalho h1{
+    font-size: 30px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#questionario{
+    background-color: white;
+    height: 30%;
+    border-style: solid;
+    border-color: cornflowerblue;
+}
